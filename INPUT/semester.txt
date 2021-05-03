@@ -1,0 +1,5 @@
+Algorithms|Sem 2|10
+C Programming|Sem 3|10
+Data Structures|Sem 2|5
+Networking|Sem 3|10
+DBMS|Sem 1|10

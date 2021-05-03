@@ -1,0 +1,6 @@
+100234|Hiren Das|Commerce
+234156|Sital Gupta|Anthro
+652131|Joseph M|Commerce
+234156|Sital Gupta|Commerce
+234156|Sital Gupta|Anthro
+234156|Sital Gupta|Botany

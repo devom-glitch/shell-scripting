@@ -1,0 +1,5 @@
+1231;Online;Available
+5671;Offline;Available
+7712;Mixed-Mode;Not Available
+8712;Online;Not Available
+4444;Online;Available
