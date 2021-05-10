@@ -1,0 +1,6 @@
+O123;Pen;30:Ananata Gogoi
+O778;Pencil;200;Biraj Phukan
+O234;Pen Holder;230;Haren Borah
+O891;Pen;60;Juhika
+O7111;Eraser;100;Anjana
+O12221;Water Colour;20;Nirupam

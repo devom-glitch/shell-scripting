@@ -1,0 +1,6 @@
+1|Latha|Third|Vikas|0|0
+2|Neethu|Second|Meridian|35|0
+3|Sethu|First|DAV|0|50
+4|Theekshana|Second|DAV|50|100
+5|Teju|First|Sangamithra|93|100
+6|Theekshitha|Second|Sangamithra|0|90

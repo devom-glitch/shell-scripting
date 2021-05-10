@@ -1,0 +1,6 @@
+101|Blackpool|12
+102|Liverpool|10
+103|Manchester City|12
+104|Leicester City|13
+105|Manchester United|11
+106|Newcastle United|12
